@@ -17,7 +17,7 @@
             .div {
                 width: 15%;
                 height: 8vh;
-                background-image: url(/images/header-logo.svg);
+                background-image: url(https://raw.githubusercontent.com/alimuhammadmaisam-creator/Fashionables/19ababbe86b739360082c0c90fb9196ba4c28f9b/images/header-logo.svg);
                 background-size: 100% 100%;
                 margin: 20px 20px;
             }
@@ -112,7 +112,7 @@
             .div5 {
                 width: 100%;
                 height: 75vh;
-                background-image: url(/images/1-300x349.png);
+                background-image: url(../images/1-300x349.png);
                 background-size: 100% 100%;
             }
 
@@ -124,7 +124,7 @@
             .div6 {
                 width: 100%;
                 height: 75vh;
-                background-image: url(/images/polo-tshirt-400x465.jpg);
+                background-image: url(../images/polo-tshirt-400x465.jpg);
                 background-size: 100% 100%;
             }
 
@@ -136,7 +136,7 @@
             .div7 {
                 width: 100%;
                 height: 75vh;
-                background-image: url(/images/cream-tshirt-400x465.jpg);
+                background-image: url(../images/cream-tshirt-400x465.jpg);
                 background-size: 100% 100%;
             }
 
