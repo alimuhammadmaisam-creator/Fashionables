@@ -194,7 +194,7 @@ header {
     height: 80vh;
     border: 1px solid black;
     margin-top: 140px;
-    background-image: url(images/about-clothing-r5s11i8yvfmeodsxa50m2k4710tdmqicfv8tp6fo8g.jpg);
+    background-image: url(./images/about-clothing-r5s11i8yvfmeodsxa50m2k4710tdmqicfv8tp6fo8g.jpg);
     background-size: 100% 100%;
 }
 .third-2{
@@ -406,7 +406,7 @@ header {
             width: 22%;
             height: 60vh;
             border-radius:20px ;
-            background-image: url(./images/footer-img-01.jpg);
+            background-image: url(../images/footer-img-01.jpg);
             background-size: 100% 100%;
         }
         .frame1{
