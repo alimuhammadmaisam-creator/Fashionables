@@ -194,7 +194,7 @@ header {
     height: 80vh;
     border: 1px solid black;
     margin-top: 140px;
-    background-image: url(/images/about-clothing-r5s11i8yvfmeodsxa50m2k4710tdmqicfv8tp6fo8g.jpg);
+    background-image: url(./images/about-clothing-r5s11i8yvfmeodsxa50m2k4710tdmqicfv8tp6fo8g.jpg);
     background-size: 100% 100%;
 }
 .third-2{
@@ -237,7 +237,7 @@ header {
     width: 50%;
     height: 100%;
     border: none;
-    background-image: url(/images/about-us-bg-01.jpg);
+    background-image: url(./images/about-us-bg-01.jpg);
     background-size: 100% 100%;
 }
 .fourth-h1{
@@ -406,28 +406,28 @@ header {
             width: 22%;
             height: 60vh;
             border-radius:20px ;
-            background-image: url(/images/footer-img-01.jpg);
+            background-image: url(./images/footer-img-01.jpg);
             background-size: 100% 100%;
         }
         .frame1{
             width: 22%;
             height: 60vh;
             border-radius:20px ;
-            background-image: url(/images/footer-img-02.jpg);
+            background-image: url(./images/footer-img-02.jpg);
             background-size: 100% 100%;
         }
         .frame2{
             width: 22%;
             height: 60vh;
             border-radius:20px ;
-            background-image: url(/images/footer-img-03.jpg);
+            background-image: url(./images/footer-img-03.jpg);
             background-size: 100% 100%;
         }
         .frame3{
             width: 22%;
             height: 60vh;
             border-radius:20px ;
-            background-image: url(/images/footer-img-04.jpg);
+            background-image: url(./images/footer-img-04.jpg);
             background-size: 100% 100%;
         }
         .cont{
@@ -462,7 +462,7 @@ header {
         .picture{
             width: 60%;
             height: 8vh;
-            background-image: url(/images/footer-logo.svg);
+            background-image: url(./images/footer-logo.svg);
             background-size: 100% 100%;
             margin-top: 80px;
             margin-left: 20px;
@@ -539,6 +539,6 @@ header {
             width: 25%;
             height: 8vh;
             margin-left: 500px;
-            background-image: url(/images/payments.svg);
+            background-image: url(,/images/payments.svg);
             background-size: 100% 100%;
         }
