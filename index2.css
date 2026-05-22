@@ -112,7 +112,7 @@
             .div5 {
                 width: 100%;
                 height: 75vh;
-                background-image: url(../images/1-300x349.png);
+                background-image: url(./images/1-300x349.png);
                 background-size: 100% 100%;
             }
 
@@ -124,7 +124,7 @@
             .div6 {
                 width: 100%;
                 height: 75vh;
-                background-image: url(../images/polo-tshirt-400x465.jpg);
+                background-image: url(./images/polo-tshirt-400x465.jpg);
                 background-size: 100% 100%;
             }
 
@@ -136,7 +136,7 @@
             .div7 {
                 width: 100%;
                 height: 75vh;
-                background-image: url(../images/cream-tshirt-400x465.jpg);
+                background-image: url(./images/cream-tshirt-400x465.jpg);
                 background-size: 100% 100%;
             }
 
@@ -249,7 +249,7 @@
             .Div6 {
                 width: 100%;
                 height: 75vh;
-                background-image: url(../images/princess-hoodie-400x465.jpg);
+                background-image: url(./images/princess-hoodie-400x465.jpg);
                 background-size: 100% 100%;
             }
 
